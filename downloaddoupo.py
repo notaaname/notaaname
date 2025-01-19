@@ -2,7 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import time
 import random
-
+'''
+这段代码是不能运行的，因为已经404了，仅供参考
+'''
 headers = {
     'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
 }
